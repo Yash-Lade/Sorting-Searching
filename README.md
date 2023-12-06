@@ -11,4 +11,10 @@ There are generally two main types of sorting methods which are :</br>
 An internal sort is any data sorting process that takes place entirely within the main memory of a computer. </br>
 This is possible whenever the data to be sorted is small enough to all be held in the main memory. like a hard-disk.</br>
 
-Internal sorting consists of various different sorting mehods</br>
+Internal sorting consists of various kind of sorting methods which are -</br>
+~Bubble Sort</br>
+~Heap Sort</br>
+~Merge Sort </br>
+~Quick Sort </br>
+~Selection Sort </br>
+~Insertion Sort </br>
