@@ -3,10 +3,9 @@ using namespace std;
 int main()
 {
  int n,i,arr[10],no,flag=0,loc;
- 
- cout<<"Student Name - Tushar Gawhade \n";
- cout<<"Enroll no. - 0832CS221213 \n";
- 
+
+ cout<<"@Author - Yash Lade !!/n/n";
+
  cout<<"\n -- Linear Search -- \n";
  cout<<"\nEnter the no. of elements you want in array :";
  cin>>n;
