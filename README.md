@@ -18,3 +18,11 @@ Internal sorting consists of various kind of sorting methods which are -</br>
 ~Quick Sort </br>
 ~Selection Sort </br>
 ~Insertion Sort </br>
+
+#Searching in C++
+Searching in data structure refers to the process of finding the required information from a collection of items stored as elements in the computer memory. </br>
+These sets of items are in different forms, such as an array, linked list, graph, or tree.
+
+There are mainly four types of Searching methods exist in Data Structure which are "</br>
+1.Linear Search
+2.Binary Search
